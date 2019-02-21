@@ -1,0 +1,10 @@
+{
+  "env": "prod",
+  "status": "success",
+  "aws": {
+    "accessKey": "AKIAIRKNLGG657FU5KLQ",
+    "secretAccess": "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",
+    "apiversion": "2012-08-10",
+    "region": "ap-south-1"
+  }
+}
